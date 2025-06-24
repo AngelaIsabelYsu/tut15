@@ -16,9 +16,11 @@ Esta tutoría me enseñó que no soy tan frágil como creía. Siempre me veía c
 🌱 A ti, que hoy dudas de ti misma: eres suficiente, vales mucho más de lo que crees. Sigue, aunque sea despacito.
 
 🕰 Línea del tiempo emocional
-Semana	Estado Emocional	Breve Descripción
-1	Insegura	Miedo a no estar a la altura.
-3	Curiosa	Empecé a cuestionarme cosas.
-6	Frustrada pero valiente	Caí, pero no me quedé abajo.
-9	Orgullosa	Reconocí mis avances internos.
-12	Agradecida	Cerré el ciclo con paz y gratitud.
+| Semana | Estado Emocional        | Breve Descripción                  |
+| ------ | ----------------------- | ---------------------------------- |
+| 1      | Insegura                | Miedo a no estar a la altura.      |
+| 3      | Curiosa                 | Empecé a cuestionarme cosas.       |
+| 6      | Frustrada pero valiente | Caí, pero no me quedé abajo.       |
+| 9      | Orgullosa               | Reconocí mis avances internos.     |
+| 12     | Agradecida              | Cerré el ciclo con paz y gratitud. |
+

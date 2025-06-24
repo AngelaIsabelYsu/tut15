@@ -1,6 +1,7 @@
 # tut15
 
 🌟 README.md – Diario de transformación personal
+
 ✍️ Parte 1: Lo que más me marcó 💡
 
 Durante este ciclo, la actividad que más me tocó emocionalmente fue la dinámica de autoconocimiento en tutoría. Me enfrenté a preguntas que jamás me había hecho y descubrí emociones que tenía guardadas. Fue como un espejo que no podía evitar mirar.
